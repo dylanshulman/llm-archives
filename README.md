@@ -22,4 +22,11 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 
 ### Evaluation for JOUR389W
 
-PUT YOUR EVALUATION HERE
+I chose the following article from IGN: 
+https://www.ign.com/articles/returnal-anniversary-housemarque-announces-graphic-novel-and-artbook
+
+I was pretty impressed with Groq's results. It returned every name and organization in the article. It did make some interesting organizational choices, however. I chose this article since it includes fictional people and places as well. It logged "Atropos" correctly as a place in a video game's universe, but it also logged Amazon the retailer as a place, which I would consider more an organization. Interesting it named the fictional planet but not the fictional protagonist Selene Vassos. 
+
+I believe IGN could do a lot with a process like this. I've mentioned in other assignments how IGN could catalog their tech reviews so that readers could basically shop on IGN by looking at their different ratings of tech based on categories. A process like this could extrapolate categories of technology from a wide variety of articles which could then be implemented in an external format. 
+
+Also, we've discussed in class about how a system like this could be used to help guide an organization's sourcing. IGN could use this to not only create a organizationally-wide pool of sources but also to sift through their sources and those named in articles to see trends of diversity or overuse. 
